@@ -1,6 +1,6 @@
 let nota = 7.2;
 //math.ceil vai arredondar o valor
-switch(Math.ceil(nota)) { //diferrente de outras estruturas de controle, o swtich não tem experessão verdadeira ou falsa
+switch(Math.ceil(nota)) { //diferente de outras estruturas de controle, o swtich não tem expressão verdadeira ou falsa
     case 10: 
     case 9: 
     case 8: 
