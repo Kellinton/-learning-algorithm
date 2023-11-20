@@ -12,8 +12,8 @@ console.log(notas);
 
 // acessar por índice
 console.log(notas[3]);
-console.log(notas[5]);
 
 
 // alterando o dado do índice 3
 notas[3] = 8.7;
+console.log(notas[3]);
